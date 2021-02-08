@@ -1,6 +1,6 @@
 /* Global Styles */
 :root{
-    --bg-color-primary: #0F90CC;
+    --bg-color-primary: #01293b;
     --dark-blue: #363f5f;
     --green: #0FCC46;
     --blue: #0087FF;
@@ -216,6 +216,9 @@ td.expense{
     color: #e92929;
 }
 
+img.removeItem{
+    cursor: pointer;
+}
 
 
 /* Modal */
